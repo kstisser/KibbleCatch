@@ -1,0 +1,17 @@
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.pri
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\priconfig.xml
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\priconfig.xml.intermediate
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\layout.resfiles
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\layout.resfiles.intermediate
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\resources.resfiles
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\resources.resfiles.intermediate
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\pri.resfiles
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\pri.resfiles.intermediate
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\qualifiers.txt
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt

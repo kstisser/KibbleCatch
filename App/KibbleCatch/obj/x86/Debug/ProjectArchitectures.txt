@@ -1,0 +1,4 @@
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Unity Projects\KibbleCatch\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Unity Projects\KibbleCatch\App\KibbleCatch\KibbleCatch.csproj;x86
